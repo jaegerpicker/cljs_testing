@@ -1,4 +1,4 @@
-// Compiled by ClojureScript 1.9.89 {}
+// Compiled by ClojureScript 1.9.89 {:target :nodejs}
 goog.provide('hello_world.core');
 goog.require('cljs.core');
 goog.require('clojure.browser.repl');
