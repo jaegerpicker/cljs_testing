@@ -1,0 +1,7 @@
+Building ...
+... done. Elapsed 0.080021973 seconds
+Watching paths: /Users/scampbell/CODE/cljs_testing/src
+Change detected, recompiling ...
+Compiling src/hello_world/core.cljs
+Copying file:/Users/scampbell/CODE/cljs_testing/src/hello_world/core.cljs to out/hello_world/core.cljs
+... done. Elapsed 0.103130648 seconds
